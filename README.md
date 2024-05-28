@@ -14,7 +14,6 @@ education:
   [
     "Diploma in Software Engineering",
     "Bachelor of Business Administration, Joint Major in Finance and Economics",
-    "Self-Taught Developer",
   ]
 currently_learning:
   [
@@ -27,8 +26,9 @@ hobbies:
     "Motorcycles 🏍",
     "Cars 🚗",
     "Autosports & track days 🏁",
-    "Mechanical keyboards",
+    "Mechanical keyboards ⌨️",
     "Beauty 💅🏻",
+  ]
 ```
 
 ## 🚀 Some Tools I Have Used and Learned
